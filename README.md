@@ -29,6 +29,5 @@
 
 4. 在训练样本中，特意加入了没有任何文本的背景图片，并用特殊字符作为label，防止出现一些特殊的没有任何文本的图片。
 
-#### 原始数据集和我训练的一些模型的下载地址：百度网盘：链接：https://pan.baidu.com/s/1wtVA4seK_FcLwYzlIWl2mA
-提取码：2ozo
-
+#### 数据集请去官方网站上下载。我训练的一些模型的下载地址：百度网盘：链接：链接：https://pan.baidu.com/s/1TvxBoZUuC4AJeYEr95Mucg 
+提取码：cpl1
